@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="ru">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Алексей Курепин, веб-мастер</title>
+<title>Алексей Курепин, веб-разработчик</title>
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
 <link href="/css/resume.css" rel="stylesheet" type="text/css" media="all" />
 <meta content="Алексей Курепин" name="author" />
@@ -32,16 +32,16 @@
 <h1>Специализация</h1>
 <div>
 <ul>
-  <li><strong>HTML</strong>, <strong>XML</strong>, <strong>XHTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>jQuery</strong>, <strong>AJAX</strong>, <strong>RSS</strong>, семантическая/блочная вёрстка, единая вёрстка для ПК, мобильных и печатающих устройств, полная поддержка стандартов и рекомендаций <strong>W3C</strong>.</li>
-  <li><strong>Perl</strong>, <strong>PHP 5</strong>, <strong>MySQL 5</strong>, <strong>Apache 2</strong> &mdash; умение программировать, включая установку, настройку, администрирование.</li>
-  <li><strong>Nginx</strong> &mdash; конфигурирование, начальный уровень. Есть опыт интеграции с Rails-приложениями (например, Redmine).</li>
-  <li><strong>Ruby</strong>, <strong>Ruby on Rails</strong> &mdash; средний уровень. Новое &mdash; под Ruby&nbsp;1.9 + Rails&nbsp;3.0, старое &mdash; под Ruby&nbsp;1.8.6 + <nobr>Rails&nbsp;2.0-2.3</nobr>; также умею <strong>Passenger</strong>, <strong>Mongrel</strong>, кластеризация, memcache.</li>
-  <li>Создание и поддержка сайтов на <strong>Drupal</strong>, а так же создание систем управления по индивидуальным требованиям.</li>
-  <li>Рабочие инструменты: <strong>Ubuntu</strong>, <strong>Aptana</strong>, <strong>Eclipse</strong>, <strong>NetBeans</strong>, <strong>SVN</strong>, <strong>Git</strong>, <strong>jira</strong>, <strong>TestTracker</strong>, <strong>Мотив</strong>.</li>
+  <li><strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>jQuery</strong> и прочая клиентская фигня.</li>
+  <li><strong>Perl</strong>, <strong>PHP 5.3</strong>, <strong>MySQL 5</strong>, <strong>Apache 2</strong> (не люблю) &mdash; умение программировать, включая установку, настройку, администрирование.</li>
+  <li><strong>Nginx</strong> &mdash; конфигурирование, <strong>Passenger</strong>, <strong>PHP-FPM</strong>.</li>
+  <li><strong>Ruby</strong>, <strong>Ruby on Rails</strong> &mdash; средний уровень. Новое &mdash; под Ruby&nbsp;1.9 + Rails&nbsp;3.1, старое &mdash; под Ruby&nbsp;1.8.7 + <nobr>Rails&nbsp;2.0-2.3</nobr>; также умею <strong>Passenger</strong>, <strong>Mongrel</strong>, кластеризация, memcache.</li>
+  <li>Создание и поддержка сайтов на <strong>Drupal</strong>, <strong>WordPress</strong>, а так же создание систем управления по индивидуальным требованиям.</li>
+  <li>Рабочие инструменты: <strong>Ubuntu</strong>, <strong>NetBeans</strong>, <strong>Git</strong>, <strong>Redmine</strong>.</li>
   <li>Администрирование, установка серверов, настройка операционных систем и прикладного программного обеспечения в среде Linux.</li>
   <li>Базы данных <strong>MySQL</strong> &mdash; разработка любого программного обеспечения под <strong>MySQL</strong> в средах веб, Windows, Linux, грамотная разработка архитектуры БД, репликация, резервирование, администрирование сервера <strong>MySQL</strong>.</li>
   <li>Разработка консольных приложений под Linux на <strong>Perl</strong>, <strong>PHP</strong>, <strong>C/C++</strong> (начальный уровень).</li>
-  <li>Интеграция <strong>веб-сервисов</strong>, <strong>WebMoney</strong>, <strong>SMS-сервисы</strong>.</li>
+  <li>Интеграция <strong>социальных веб-сервисов</strong>, <strong>WebMoney</strong>, <strong>SMS-сервисы</strong>.</li>
   <li>Веб-приложения на основе <strong>AJAX</strong>, <strong>Zend Framework</strong>, <strong>jQuery</strong>, <strong>extJS</strong>. Готов к работе с другими веб-фреймворками.</li>
   <li>Знание принципов работы и оптимизации высоконагруженных веб-проектов.</li>
   <li>Руководство веб-проектами, координация работы дизайнеров и программистов, написание проектной документации, консультации.</li>
@@ -54,11 +54,12 @@
   <li>Все средства разработки <strong>Microsoft</strong>.</li>
   <li>Все средства разработки <strong>Adobe</strong>.</li>
 </ul>
-<p>Просьба не предлагать:</p>
+<p>Просьба не беспокоить вопросами типа:</p>
 <ul>
-  <li>Нарисовать кнопочки.</li>
-  <li>Сверстать страничку.</li>
-  <li>Сделать, чтоб Яндекс/Гугл сайт находил.</li>
+  <li>Нарисовать кнопочки (к дизайнеру).</li>
+  <li>Сверстать страничку (к верстальщку).</li>
+  <li>Сделать, чтоб Яндекс/Гугл сайт находил (к оптимизатору).</li>
+  <li>А давай мы тебе картинку пришлём, а ты всё по ней сделаешь? (на фриланс.ру)</li>
 </ul>
 <p>В будущем мне хотелось бы изучить:</p>
 <ul>
@@ -67,17 +68,17 @@
 </div>
 <h1>Другие сведения</h1>
 <div>
-    <strong>Семейное положение:</strong> не женат, детей нет.<br />
-    <strong>Водительский опыт:</strong> категория &laquo;B&raquo; с  2005 г.<br />
-    <strong>Личный автомобиль:</strong> нет.<br />
-    <strong>Знание языков:</strong> отличное знание русского (пишу грамотно и без ошибок), технический английский (программирование), начальные знания французского. <br />
-    <strong>Психология:</strong> уравновешенный и серьёзный, но с хорошим чувством юмора, в меру общительный и доброжелательный, хорошо уживаюсь в коллективе. При определённых условиях проявляю разумную инициативу и лидерские качества.<br />
-    <strong>Характер в работе:</strong> склонен к разумной оптимизации всего, не тороплюсь, стараюсь сделать всё так, чтобы потом не переделывать.<br />
-    <strong>Хобби:</strong> музыка, фотография, интернет, электроника, путешествия.<br />
+    <strong>Социальный статус:</strong> не женат, детей нет, снимаю квартиру.<br />
+    <strong>Водительский опыт:</strong> категория &laquo;B&raquo; с 2005 г.<br />
+    <strong>Личный автомобиль:</strong> 1 шт.<br />
+    <strong>Знание языков:</strong> отличное знание русского (пешу грамотно и без ошыбок), технический английский (программирование, форумы, мануалы), начальные знания французского (в школе учил). <br />
+    <strong>Психология:</strong> на учёте в психдиспансере не состою :)<br />
+    <strong>Характер в работе:</strong> склонен к разумной оптимизации всего, не тороплюсь, стараюсь сделать всё так, чтобы потом не переделывать. Не люблю, когда над душой стоят, подгоняют и отвлекают. Работаю в два раза лучше, когда хвалят за дело.<br />
+    <strong>Хобби:</strong> музыка, фотография, искусство, интернет, автомобили, электроника, путешествия.<br />
     <strong>Готовность к работе:</strong> до 2 недель со дня принятия решения об устройстве на работу.<br />
-    <strong>Командировки:</strong> непродолжительные по РФ.
+    <strong>Командировки:</strong> по России (пока нет загранпаспорта).
 </div>
-<div id="counter">Последнее обновление от 13 сентября 2010 года.<br />
+<div id="counter">Последнее обновление от 30 октября 2011 года.<br />
 </div>
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
