@@ -21,6 +21,7 @@
   <li>Коротко обо мне: рельсовик-затейник средней руки.</li>
   <li>Rails, MySQL, nginx, Haml/Slim/Sass, Sinatra, memcache, jQuery, Twitter Bootstrap — остальное не пробовал, но быстро научусь :)</li>
   <li>Ubuntu Desktop на десктопе, Ubuntu Server на серверах, Sublime Text 2 для кода.</li>
+  <li>Знаю, для чего нужен LEFT JOIN!</li>
   <li>Работаю со всем описанными наукой API и сетевыми протоколами. Знаю, как расшифровывается OSI.</li>
   <li>Верстаю макеты и работаю в Windows из под палки (по очень большой надобности).</li>
   <li>Имею аккаунт на GitHub: <a href="http://github.com/foxweb">github.com/foxweb</a>.</li>
