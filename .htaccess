@@ -1,5 +1,0 @@
-RewriteEngine On
-Options +FollowSymLinks -Indexes
-#RewriteRule ^(.+)$ /index.html [L,QSA]
-RewriteRule ^c2aba1f77d10d909e8f7d2ef8ccaa3c9$ /index.html [R=301]
-RewriteRule ^qr$ / [R=301]
