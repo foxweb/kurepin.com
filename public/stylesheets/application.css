@@ -1,7 +1,7 @@
 /* CSS Document */
-body{font-family:BlinkMacSystemFont,"Lucida Grande","Trebuchet MS",Arial,Helvetica,sans-serif;font-size:10pt;color:#333333;background-color:#FFFFFF;margin: 50px auto;max-width:800px;line-height:1.55;}
-h1{font-size:16pt;border-bottom:1px dashed #CCCCCC;}
-h1 sup {font-size:10pt;font-weight:normal;font-style:italic;color:#005F82;}
+body{font-family:-apple-system,BlinkMacSystemFont,"Arial",sans-serif;font-size:11pt;color:#333333;background-color:#FFFFFF;margin: 50px auto;max-width:950px;line-height:1.55;}
+h1{font-family:'Montserrat';font-size:18pt;border-bottom:1px dashed #CCCCCC;font-weight: bold;}
+h1 sup {font-size:12pt;font-weight:normal;font-style:italic;color:#005F82;}
 ul{list-style-image:url(/images/bullet.gif);}
 a:link,a:visited{color:#CC3333;background-color:inherit;font-weight:bold;}
 a:hover{text-decoration:none;color:#FF0000;background-color:inherit;}
@@ -11,5 +11,5 @@ a:hover{text-decoration:none;color:#FF0000;background-color:inherit;}
 #about{padding-left:135px;}
 @media (-webkit-min-device-pixel-ratio: 2),
 (min-resolution: 192dpi) {
-    img{image-rendering:pixelated;}
+  img{image-rendering:pixelated;}
 }
