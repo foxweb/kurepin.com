@@ -5,7 +5,7 @@ set :user, 'foxweb'
 set :deploy_to, '/home/foxweb/www/kurepin.com'
 set :repository, 'git@github.com:foxweb/kurepin.com.git'
 set :branch, 'master'
-set :shared_paths, %w[public/pub public/photo public/vk]
+set :shared_paths, %w[public/pub public/photo public/vk public/.well-known]
 set :keep_releases, 5
 
 task setup: :environment do
