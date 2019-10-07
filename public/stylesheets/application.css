@@ -10,6 +10,4 @@ a:hover{text-decoration:none;color:#FF0000;background-color:inherit;}
 #image{float:left;border:1px solid #CCCCCC;display:block;}
 #about{padding-left:135px;}
 @media (-webkit-min-device-pixel-ratio: 2),
-(min-resolution: 192dpi) {
-  img{image-rendering:pixelated;}
-}
+(min-resolution: 192dpi) {img{image-rendering:pixelated;}}
