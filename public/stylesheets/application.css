@@ -1,5 +1,5 @@
 /* CSS Document */
-body{font-family:-apple-system,BlinkMacSystemFont,"Arial",sans-serif;font-size:11pt;color:#333333;background-color:#FFFFFF;margin: 50px auto;max-width:950px;line-height:1.55;}
+body{font-display:swap;font-family:-apple-system,BlinkMacSystemFont,"Arial",sans-serif;font-size:11pt;color:#333333;background-color:#FFFFFF;margin: 50px auto;max-width:950px;line-height:1.55;}
 h1{font-family:'Montserrat';font-size:18pt;border-bottom:1px dashed #CCCCCC;font-weight: bold;}
 h1 sup {font-size:12pt;font-weight:normal;font-style:italic;color:#005F82;}
 ul{list-style-image:url(/images/bullet.gif);}
