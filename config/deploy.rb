@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+# mina ~> 1.2.5 (https://rubygems.org/gems/mina)
 
 require 'mina/git'
 require 'mina/rbenv'
