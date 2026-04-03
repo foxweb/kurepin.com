@@ -166,8 +166,31 @@
   </main>
 
   <footer>
-    <p id="counter">Последнее обновление от 17 марта 2025 г.</p>
+    <p id="counter">Последнее обновление от <time id="last-update" datetime="">…</time></p>
   </footer>
+
+  <script>
+    fetch('https://api.github.com/repos/foxweb/kurepin.com/commits?per_page=1')
+      .then(r => r.json())
+      .then(([c]) => {
+        const el = document.getElementById('last-update');
+        if (!el || !c || !c.commit || !c.commit.committer || !c.commit.committer.date) throw new Error();
+        const d = new Date(c.commit.committer.date);
+        el.dateTime = c.commit.committer.date.slice(0, 10);
+        el.textContent = new Intl.DateTimeFormat('ru-RU', {
+          day: 'numeric',
+          month: 'long',
+          year: 'numeric',
+        }).format(d);
+      })
+      .catch(() => {
+        const el = document.getElementById('last-update');
+        if (el) {
+          el.removeAttribute('datetime');
+          el.textContent = '—';
+        }
+      });
+  </script>
 
   <!-- Yandex.Metrika counter -->
   <script type="text/javascript">
